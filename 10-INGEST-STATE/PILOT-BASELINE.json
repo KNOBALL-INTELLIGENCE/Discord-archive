@@ -1,0 +1,37 @@
+{
+  "schema": "KNOBALL-DISCORD-INGEST-BASELINE-001",
+  "version": "1.0.0",
+  "tenant": {
+    "working_tenant_id": "KNOBALL-PILOT",
+    "server_name": "KNOBALL PILOT",
+    "discord_server_id": "1530755751318917224",
+    "status": "PILOT_REFERENCE_IMPLEMENTATION"
+  },
+  "baseline": {
+    "archive_id": "2026-08-27_22-36-34_EDT_27c51364",
+    "generated_at_utc": "2026-08-28T02:36:34.126201+00:00",
+    "export_type": "Full Server",
+    "channels_processed": 132,
+    "messages_captured": 12019,
+    "errors": [],
+    "source_path": "discord-archives/2026/08/27/2026-08-27_22-36-34_EDT_27c51364/KNOBALL_PILOT_FULL_SERVER_2026-08-27_22-36-25.json"
+  },
+  "logical_message_identity": [
+    "guild_id",
+    "channel_id",
+    "message_id"
+  ],
+  "deduplication": {
+    "same_identity_same_content": "ALREADY_SEEN",
+    "same_identity_changed_content_or_material_metadata": "REVISION",
+    "new_identity": "NEW",
+    "raw_exports": "PRESERVE_ALL_SOURCE_EXPORTS"
+  },
+  "processing": {
+    "raw_source_mutation": false,
+    "full_reprocess_required_for_overlap": false,
+    "downstream_default": "PROCESS_NEW_AND_REVISED_DELTA_ONLY",
+    "discord_evidence_is_canonical_knoball_state": false
+  },
+  "canon_status": "SOURCE_EVIDENCE_NOT_CANONICAL_BY_ITSELF"
+}
