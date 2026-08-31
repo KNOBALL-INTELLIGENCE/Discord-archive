@@ -1,0 +1,2373 @@
+KNOBALL DISCORD ARCHIVE
+========================================================================
+Archive ID: 2026-08-31_17-42-47_EDT_cd7d8c49
+Generated: 2026-08-31 05:42:47 PM EDT
+GitHub Folder: discord-archives/2026/08/31/2026-08-31_17-42-47_EDT_cd7d8c49
+Transcript Files: 1
+========================================================================
+
+
+########################################################################
+SOURCE: transcripts\00_🌈JOHNNY_1537525548207575070\01_johnny_1537525982213177424.md
+########################################################################
+
+# Discord Transcript
+
+**Server:** KNOBALL PILOT
+
+**Channel/Thread:** johnny
+
+**Channel ID:** 1537525982213177424
+
+**Generated:** 2026-08-31 05:42:46 PM EDT
+
+---
+
+## Knoball Archive
+
+- **Username:** Knoball Archive
+- **User ID:** 1539122059886465115
+- **Message ID:** 1540801355977982055
+- **Time:** 2026-08-22 03:14:29 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1540801355977982055
+
+> 📦 **Discord Channel Archive**
+> **Requested by:** <@885947442359582772>
+> **Channel/Thread:** <#1537525982213177424>
+> **Messages:** 6
+> **Type:** Since Personal Checkpoint
+
+**Attachments**
+
+- [KNOBALL_PILOT_johnny_2026-08-22_15-14-29.zip](https://cdn.discordapp.com/attachments/1537525982213177424/1540801355428532364/KNOBALL_PILOT_johnny_2026-08-22_15-14-29.zip?ex=6a972415&is=6a95d295&hm=72fd4f7114db0a23efab97d5224797bd438cd18073fb697e558e06222e46fae2&) (7,034 bytes)
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1540869116154617886
+- **Time:** 2026-08-22 07:43:45 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1540869116154617886
+
+> https://discord.com/channels/1530755751318917224/1540868927796674650
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1541078620695691415
+- **Time:** 2026-08-23 09:36:15 AM EDT
+- **Edited:** 2026-08-23 09:36:32 AM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1541078620695691415
+
+> full functionality of scheduling discord <#1535854464487919646> 
+> 
+> This works but feels clunky & I'll never use it i feel. As a user
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1541078716904509491
+- **Time:** 2026-08-23 09:36:37 AM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1541078716904509491
+
+> <@885947442359582772>
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1541162429868802138
+- **Time:** 2026-08-23 03:09:16 PM EDT
+- **Edited:** 2026-08-23 03:09:40 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1541162429868802138
+
+> Future Potatoes questions
+> 
+> If we are developing several things at once I think i wanna build a roadmap for us all to track what we have now, what's next & then order we should develop next
+> 
+> I can break down all the statuses of MVP features
+> > full analysis included or not right there
+> > ios 
+> > LG builder
+> > Radio
+> > Player creator
+> Just examples 
+> 
+> We can add or push back w.e
+> 
+> Just trying to stay organized & keep us all on the same page. Lmk if yall want this
+
+---
+
+## Wafflestacks
+
+- **Username:** wafflestacks_22114876
+- **User ID:** 805485314960261152
+- **Message ID:** 1541610839759388743
+- **Time:** 2026-08-24 08:51:05 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1541610839759388743
+
+> <@885947442359582772>
+
+---
+
+## Wafflestacks
+
+- **Username:** wafflestacks_22114876
+- **User ID:** 805485314960261152
+- **Message ID:** 1541611021335138344
+- **Time:** 2026-08-24 08:51:49 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1541611021335138344
+
+> Handoff for John — Vizard Credit Model → Possible KnoBall Pricing Model
+> 
+> Context: We tested Vizard as a way to take full 45–60 minute YouTube/game videos and automatically find touchdowns, turnovers, big plays, and other highlights before sending the best clips into CapCut.
+> 
+> What Vizard does
+> 
+> * Standard AI processing is roughly 1 credit per 1 minute of source video.
+> * A 54-minute game uses about 54 credits.
+> * Credits are charged for processing the source, not per individual short produced.
+> * One full game can therefore produce multiple candidate clips from one credit charge.
+> * Paid plans provide monthly credit pools, with larger tiers getting more processing capacity.
+> 
+> Why this matters for KnoBall
+> 
+> Vizard is a clean example of the pricing structure we have already discussed for KnoBall:
+> 
+> Subscription tier + included usage credits + optional additional credits
+> 
+> Instead of making every AI feature unlimited inside a flat subscription, KnoBall could eventually separate:
+> 
+> Tier = access and permissions
+> Credits = expensive AI / compute usage
+> 
+> Potential credit-consuming KnoBall actions could include:
+> 
+> * full-game AI analysis
+> * video/highlight processing
+> * automated scouting reports
+> * advanced simulations
+> * AI-generated league/media content
+> * large data/report jobs
+> * premium intelligence operations
+
+---
+
+## Wafflestacks
+
+- **Username:** wafflestacks_22114876
+- **User ID:** 805485314960261152
+- **Message ID:** 1541611029702901800
+- **Time:** 2026-08-24 08:51:51 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1541611029702901800
+
+> Simple example
+> 
+> A future Commissioner plan could include:
+> 
+> Commissioner Plan — $X/month
+> Core league tools + 1,000 KnoBall Credits/month
+> 
+> Then a job might say:
+> 
+> Analyze full game — 60 credits
+> Generate advanced scouting report — 20 credits
+> Create media/highlight package — 15 credits
+> 
+> If someone needs more, they buy another credit pack instead of changing their entire subscription.
+> 
+> Main takeaway
+> 
+> Vizard makes credits understandable because the customer sees a direct relationship between usage and cost.
+> 
+> That could solve an important KnoBall pricing problem:
+> 
+> Subscriptions determine what you can access. Credits determine how much expensive AI work you can run.
+> 
+> This is worth using as a pricing-model reference, not as a finalized KnoBall decision yet.
+
+**Reactions:** ✅ x1
+
+---
+
+## Knoball Archive
+
+- **Username:** Knoball Archive
+- **User ID:** 1539122059886465115
+- **Message ID:** 1542724686788562986
+- **Time:** 2026-08-27 10:37:07 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1542724686788562986
+
+> 📦 **Discord Server Archive - FULL_SERVER**
+> **Requested by:** <@885947442359582772>
+> **Messages:** 12,019
+> **Text channels processed:** 132
+> **Threads/posts processed:** 0
+> **Range:** All time → All time
+> **Attachments included:** No
+> **ZIP Parts:** 2
+
+**Attachments**
+
+- [KNOBALL_PILOT_FULL_SERVER_2026-08-27_22-36-25_PART_001_OF_002.zip](https://cdn.discordapp.com/attachments/1537525982213177424/1542724686343839824/KNOBALL_PILOT_FULL_SERVER_2026-08-27_22-36-25_PART_001_OF_002.zip?ex=6a96e313&is=6a959193&hm=4a66cc5a6228f241f2baf1cbb2caea5512fcb30ea945ec0863961e888dbefec8&) (2,294,946 bytes)
+
+---
+
+## Knoball Archive
+
+- **Username:** Knoball Archive
+- **User ID:** 1539122059886465115
+- **Message ID:** 1542724692404732044
+- **Time:** 2026-08-27 10:37:09 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1542724692404732044
+
+> 📦 **Discord Server Archive - FULL_SERVER** - Part 2/2
+
+**Attachments**
+
+- [KNOBALL_PILOT_FULL_SERVER_2026-08-27_22-36-25_PART_002_OF_002.zip](https://cdn.discordapp.com/attachments/1537525982213177424/1542724691922526229/KNOBALL_PILOT_FULL_SERVER_2026-08-27_22-36-25_PART_002_OF_002.zip?ex=6a96e314&is=6a959194&hm=e1946152ecc8c78f2e2ae0314b4564ae29853ec79690183b4c1b1f49a5f64b6f&) (2,324,684 bytes)
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1542739395466231898
+- **Time:** 2026-08-27 11:35:34 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1542739395466231898
+
+> https://discord.com/channels/1530755751318917224/1536460412923543673
+> 
+> Report & prompt
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1542996149424885934
+- **Time:** 2026-08-28 04:35:49 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1542996149424885934
+
+> I wanna look at tiers again. U have something updated or can I ask sara now what u got rn?
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1542996185579651202
+- **Time:** 2026-08-28 04:35:58 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1542996185579651202
+
+> <@885947442359582772>
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1542996643345858570
+- **Time:** 2026-08-28 04:37:47 PM EDT
+- **Reply To Message:** 1542996185579651202
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1542996643345858570
+
+> Ooohh i stopped working on it but would love revisit im redoing memory stuff so not sure what she will have for you without some digging if ya want i can just pull what i have for you real quick
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1542996706654687252
+- **Time:** 2026-08-28 04:38:02 PM EDT
+- **Reply To Message:** 1542996643345858570
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1542996706654687252
+
+> Yea plz
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1542998136962687076
+- **Time:** 2026-08-28 04:43:43 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1542998136962687076
+
+> So on theory could I upload games right to gpt under project & madden data exports to start building knoball portfolios on our 100 LG users? End goal is I want sara to do the guided raffle
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1542998647606616064
+- **Time:** 2026-08-28 04:45:45 PM EDT
+- **Reply To Message:** 1542998136962687076
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1542998647606616064
+
+> Explain more for me I'm sure we can do it im just not following rn?
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543001673645953064
+- **Time:** 2026-08-28 04:57:46 PM EDT
+- **Edited:** 2026-08-28 04:57:51 PM EDT
+- **Reply To Message:** 1542998647606616064
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543001673645953064
+
+> I want to automate our reboot team picker/ guided raffle
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543001903657525310
+- **Time:** 2026-08-28 04:58:41 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543001903657525310
+
+> Can I upload gameplay for say Cody & all his stats from the szn via neon export & build a profile for him within our system
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543004239071150220
+- **Time:** 2026-08-28 05:07:58 PM EDT
+- **Reply To Message:** 1543001903657525310
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543004239071150220
+
+> Idk about gameplay rn on the gpt side but i can build a template for you to review on this for sure
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543005101608665239
+- **Time:** 2026-08-28 05:11:23 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543005101608665239
+
+> We just got all these new guys & after this szn I wanna re access teams
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543005123066859700
+- **Time:** 2026-08-28 05:11:28 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543005123066859700
+
+> & divisions
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543005249801949244
+- **Time:** 2026-08-28 05:11:59 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543005249801949244
+
+> We will need to trim fat too bc some guys will want to come back & we will need to decide who's riding the bench
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543008687130550273
+- **Time:** 2026-08-28 05:25:38 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543008687130550273
+
+> Yeah this perfect timing im in the middle of trying to male the template for new discord servers and will have something for you tonight
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543008716146614362
+- **Time:** 2026-08-28 05:25:45 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543008716146614362
+
+> <@1189395732831142041>
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543045574511698020
+- **Time:** 2026-08-28 07:52:13 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543045574511698020
+
+> just saying i spent an hour going back and forth with both claude and gemini in this new multi ai model collab chat discussing how hard it would be to turn our current GM Scenario lab into more of an All 22 style like you asked for......really really feasible.
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543045743080644648
+- **Time:** 2026-08-28 07:52:53 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543045743080644648
+
+> i know i know future potatoes....also johnny if you wanna come over and play some madden and smoke some dabs your more then welcome to homie. i fucked my head up big time at the beach and am pretty sure i have a concussion so i wont be sleeping for a few hours out of precaution lol
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543045763012100126
+- **Time:** 2026-08-28 07:52:58 PM EDT
+- **Reply To Message:** 1543045574511698020
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543045763012100126
+
+> https://klipy.com/gifs/mushrooms-growing-1
+
+**Reactions:** 🤣 x1
+
+**Embeds:**
+
+```json
+[
+  {
+    "thumbnail": {
+      "url": "https://static.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/ed/c8/5CdlRDygwrWeb.webp",
+      "proxy_url": "https://images-ext-1.discordapp.net/external/wdFWCf_8e6KfYXKMA6o2LdNcSOb5wjidb3uWVTXBeZw/https/static.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/ed/c8/5CdlRDygwrWeb.webp",
+      "width": 220,
+      "height": 220,
+      "placeholder": "lvgFFwIJpoaBrHaZaIaIl4d5hfjIiIAC",
+      "placeholder_version": 1,
+      "flags": 0
+    },
+    "video": {
+      "url": "https://static.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/ed/c8/fCjDupSoZR2IL8f7ilcI.mp4",
+      "proxy_url": "https://images-ext-1.discordapp.net/external/jblrntce6VaSfV7kbmxV2Sx6AnNaOlti58BEGk2t74s/https/static.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/ed/c8/fCjDupSoZR2IL8f7ilcI.mp4",
+      "width": 220,
+      "height": 220,
+      "placeholder": "lvgFFwIJpoaBrHaZaIaIl4d5hfjIiIAC",
+      "placeholder_version": 1,
+      "flags": 0
+    },
+    "provider": {
+      "name": "Klipy",
+      "url": "https://klipy.com"
+    },
+    "flags": 0,
+    "type": "gifv",
+    "url": "https://klipy.com/gifs/mushrooms-growing-1",
+    "title": "Mushrooms Growing"
+  }
+]
+```
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543045978804854834
+- **Time:** 2026-08-28 07:53:49 PM EDT
+- **Reply To Message:** 1543045574511698020
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543045978804854834
+
+> If you have a plan hold on to it we can begin this after we safely onboard the league
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543046113010131075
+- **Time:** 2026-08-28 07:54:21 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543046113010131075
+
+> yea im quietly gonna work on it as my pet project until your ready to see it
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543046226394484769
+- **Time:** 2026-08-28 07:54:48 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543046226394484769
+
+**Attachments**
+
+- [IMG_7506.jpg](https://cdn.discordapp.com/attachments/1537525982213177424/1543046226163925012/IMG_7506.jpg?ex=6a96bd08&is=6a956b88&hm=c201bd74134f91c38e037f5100e9eb3323c40cd256a65cae0af653dea10367dc&) (311,976 bytes)
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543046269549682758
+- **Time:** 2026-08-28 07:54:59 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543046269549682758
+
+> they call me aquaman
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543046349417881651
+- **Time:** 2026-08-28 07:55:18 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543046349417881651
+
+> I mean this is a game itself we could create and sell  send me what you got though so i can help a lil and  make sure its what im looking for lol
+
+**Reactions:** ❤️ x1
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543046371957940374
+- **Time:** 2026-08-28 07:55:23 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543046371957940374
+
+> I saw dude wtf
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543046411245850644
+- **Time:** 2026-08-28 07:55:32 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543046411245850644
+
+> Old man reality check at its finest
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543046422805614603
+- **Time:** 2026-08-28 07:55:35 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543046422805614603
+
+> Lmao
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543046442011328544
+- **Time:** 2026-08-28 07:55:40 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543046442011328544
+
+> fr fr
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543046673012494467
+- **Time:** 2026-08-28 07:56:35 PM EDT
+- **Edited:** 2026-08-28 07:57:20 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543046673012494467
+
+> <@805485314960261152> working on implementing some of the lossless features into the content control console. cool tool, wont be able to implement all of that functionality but some is better than none
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543047292116930630
+- **Time:** 2026-08-28 07:59:02 PM EDT
+- **Reply To Message:** 1543046673012494467
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543047292116930630
+
+> Speaking of which i think I understand what jps asking for make the clipper remove the playcalls for now so its as easy as possible for him to start using it we can work on the adding playcalls back later no? Or just keep it in backgroud for now
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543047563777933453
+- **Time:** 2026-08-28 08:00:07 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543047563777933453
+
+> We have the tool make it as easy as possible for us tonuse right now and revisit again after we onboard 100lg and have bugs worked out there
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543047772570386522
+- **Time:** 2026-08-28 08:00:57 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543047772570386522
+
+> EXPOSURE more important then fine tuning right now right <@805485314960261152>
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543049330582102017
+- **Time:** 2026-08-28 08:07:08 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543049330582102017
+
+**Attachments**
+
+- [gm-scenario-lab-product-scope.pdf](https://cdn.discordapp.com/attachments/1537525982213177424/1543049329755820093/gm-scenario-lab-product-scope.pdf?ex=6a96bfec&is=6a956e6c&hm=f0039480ab7cfdab4c9ffe09afe16c8ea7a31d1e761c4695aad3584bb6b3415e&) (27,295 bytes)
+
+---
+
+## Wafflestacks
+
+- **Username:** wafflestacks_22114876
+- **User ID:** 805485314960261152
+- **Message ID:** 1543063788830335067
+- **Time:** 2026-08-28 09:04:35 PM EDT
+- **Reply To Message:** 1543047292116930630
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543063788830335067
+
+> https://klipy.com/gifs/nowandlater-candy
+
+**Embeds:**
+
+```json
+[
+  {
+    "thumbnail": {
+      "url": "https://static.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/c2/cf/6RhPyv01.webp",
+      "proxy_url": "https://images-ext-1.discordapp.net/external/Y58AJrrohwX3HR3FPEs3RcKSzraxN_K2jiiIaCK-VyY/https/static.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/c2/cf/6RhPyv01.webp",
+      "width": 498,
+      "height": 280,
+      "placeholder": "JlgGHIrVlqiemYePh3q/e5gtCQ==",
+      "placeholder_version": 1,
+      "flags": 0
+    },
+    "video": {
+      "url": "https://static.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/c2/cf/S9KILf5jYtWWCLgrqS.mp4",
+      "proxy_url": "https://images-ext-1.discordapp.net/external/dxh7e0-V8uBVN5OxjMbxe89jqrEConq3_RlUvB0ha8I/https/static.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/c2/cf/S9KILf5jYtWWCLgrqS.mp4",
+      "width": 640,
+      "height": 360,
+      "placeholder": "JlgGHIrVlqiemYePh3q/e5gtCQ==",
+      "placeholder_version": 1,
+      "flags": 0
+    },
+    "provider": {
+      "name": "Klipy",
+      "url": "https://klipy.com"
+    },
+    "flags": 0,
+    "type": "gifv",
+    "url": "https://klipy.com/gifs/nowandlater-candy",
+    "title": "Now and Later Candy Chews Assortment"
+  }
+]
+```
+
+---
+
+## Wafflestacks
+
+- **Username:** wafflestacks_22114876
+- **User ID:** 805485314960261152
+- **Message ID:** 1543063925124497509
+- **Time:** 2026-08-28 09:05:08 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543063925124497509
+
+> Source video → baseline content + baseline report → later, shared SARA intelligence package → intelligent report + intelligent video.
+
+---
+
+## Wafflestacks
+
+- **Username:** wafflestacks_22114876
+- **User ID:** 805485314960261152
+- **Message ID:** 1543064740396277880
+- **Time:** 2026-08-28 09:08:22 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543064740396277880
+
+> Baseline media: full game → usable public content → publish.
+> 
+> Baseline intelligence: full game/data → SARA analysis → useful report.
+> 
+> Once both work independently, then we connect them:
+> 
+> SARA intelligence → content opportunity → clips/timestamps → intelligent video.
+
+---
+
+## Wafflestacks
+
+- **Username:** wafflestacks_22114876
+- **User ID:** 805485314960261152
+- **Message ID:** 1543066764542222436
+- **Time:** 2026-08-28 09:16:25 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543066764542222436
+
+> KSN still has to function as a sports network for a public audience: games, highlights, Top Plays, league stories, rivalry, playoffs, championships, moments people actually want to watch.
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543066864777826314
+- **Time:** 2026-08-28 09:16:49 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543066864777826314
+
+> is there anything anyone is waiting on me for? anything anyone is needing me to tackle? just going through my to do's before i veer off into miniscule shit and boring shit
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543069638924042292
+- **Time:** 2026-08-28 09:27:50 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543069638924042292
+
+> i added a tool to adjust the compression. still has to be tested but it should be functional within the hour along with some of those lossless functionalities and tools.
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543133218591612939
+- **Time:** 2026-08-29 01:40:29 AM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543133218591612939
+
+> TIERS <@885947442359582772>
+
+**Attachments**
+
+- [KNOBALL_Madden27_Tier_System_JMack_Review_Return_to_John_v3.docx](https://cdn.discordapp.com/attachments/1537525982213177424/1543133218553860116/KNOBALL_Madden27_Tier_System_JMack_Review_Return_to_John_v3.docx?ex=6a970e0d&is=6a95bc8d&hm=9b7f597c782bab03e724fa566a143b0c8049986736fedc0dd5086b5bf67b0bee&) (53,494 bytes)
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543335697614643230
+- **Time:** 2026-08-29 03:05:04 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543335697614643230
+
+> https://discord.com/channels/1278113227896520854/1395483051831857313/1543334693200732190
+> 
+> Tweak positional value 
+> WR should not be equal to RB if the RBs physical traits are more desirable then WRs. KCP are about the same i think maybe Tuten deserves maybe a 100 more points then Addison
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543341985920974908
+- **Time:** 2026-08-29 03:30:03 PM EDT
+- **Reply To Message:** 1543133218591612939
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543341985920974908
+
+> i dont think this is correct file
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543341987267215361
+- **Time:** 2026-08-29 03:30:03 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543341987267215361
+
+> this looks the same as mine to u. no chargers to T2 or other changes we discussed
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543342229182095441
+- **Time:** 2026-08-29 03:31:01 PM EDT
+- **Reply To Message:** 1543341987267215361
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543342229182095441
+
+> It is the one you sent to me lol I posted the latest one in your channel
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543346406755147797
+- **Time:** 2026-08-29 03:47:37 PM EDT
+- **Reply To Message:** 1543342229182095441
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543346406755147797
+
+> Just a thought
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543346432327684127
+- **Time:** 2026-08-29 03:47:43 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543346432327684127
+
+> Do we factor in coaches?
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543346508731125860
+- **Time:** 2026-08-29 03:48:01 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543346508731125860
+
+> I think we kinda have to
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543346619809009734
+- **Time:** 2026-08-29 03:48:28 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543346619809009734
+
+> Well we can if we wanna avoid the create a coach route
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543346622359150604
+- **Time:** 2026-08-29 03:48:28 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543346622359150604
+
+> Baseline Tiers then 100 LG removes coaches but other lgs wont
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543346682262192269
+- **Time:** 2026-08-29 03:48:43 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543346682262192269
+
+> Its gunna be LG specific
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543346690193358989
+- **Time:** 2026-08-29 03:48:44 PM EDT
+- **Reply To Message:** 1543346622359150604
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543346690193358989
+
+> That doesnt matter
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543346896956035233
+- **Time:** 2026-08-29 03:49:34 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543346896956035233
+
+> If everything is league specific we just adjust the tiers for them there doesnt have to be a baseline tier set
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543346918078545960
+- **Time:** 2026-08-29 03:49:39 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543346918078545960
+
+> Bc it does make KC alot better then new Orleans
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543347045748703335
+- **Time:** 2026-08-29 03:50:09 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543347045748703335
+
+> Saints have no devs & brand new coach
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543347121552490646
+- **Time:** 2026-08-29 03:50:27 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543347121552490646
+
+> You got time to hop in VC?
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543347195657461830
+- **Time:** 2026-08-29 03:50:45 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543347195657461830
+
+> Coaches are a big mf wrench rn i get that
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543347209083551754
+- **Time:** 2026-08-29 03:50:48 PM EDT
+- **Reply To Message:** 1543347121552490646
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543347209083551754
+
+> Yes
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543379691262443520
+- **Time:** 2026-08-29 05:59:53 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543379691262443520
+
+> https://discord.com/channels/1530755751318917224/1543365944087290006/1543366016514527362
+> 
+> <@885947442359582772>
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543466355360014378
+- **Time:** 2026-08-29 11:44:15 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543466355360014378
+
+**Attachments**
+
+- [SARA-Cross-User-Trust-Qualification-Response-JMac-2026-08-29.docx](https://cdn.discordapp.com/attachments/1537525982213177424/1543466355037184120/SARA-Cross-User-Trust-Qualification-Response-JMac-2026-08-29.docx?ex=6a96f2cf&is=6a95a14f&hm=cbca3c35abfa15d1761cf5a6940898856cc191686b36c02a69f1bc877d33d3d7&) (49,031 bytes)
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543466426650722315
+- **Time:** 2026-08-29 11:44:32 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543466426650722315
+
+> Jm jp test
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543712068757225613
+- **Time:** 2026-08-30 04:00:37 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543712068757225613
+
+> <@885947442359582772>
+
+**Attachments**
+
+- [GPT_AUDIT_MAP-8-30.pdf](https://cdn.discordapp.com/attachments/1537525982213177424/1543712068413169787/GPT_AUDIT_MAP-8-30.pdf?ex=6a972ee5&is=6a95dd65&hm=bc69b943b21a7394d326b9ea719849328c6f97cba2c964c240e7f9742f907b0d&) (29,212 bytes)
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543712191415451738
+- **Time:** 2026-08-30 04:01:07 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543712191415451738
+
+> just spent another 5 hour allotment on a separate account processing this. so ill have an updated PDF for you shortly detailing where we stand and possible snapshots
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543714147349307533
+- **Time:** 2026-08-30 04:08:53 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543714147349307533
+
+> <@1189395732831142041> this crawl agreed with you to the tee. the discoverability on our site is ass right now. im working through some basic shit that it recommended but im pretty close to having all the tools baseline functionality set.
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543714548727546028
+- **Time:** 2026-08-30 04:10:29 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543714548727546028
+
+> i gotta find the exact one you sent me a while back, it was formatted exactly how i would like it moving forward. where you detailed every page and fix and adjustment and it was based off the existing format and not rearranging things that arent there and such it was perfect
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543718234216468591
+- **Time:** 2026-08-30 04:25:07 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543718234216468591
+
+> been feeding sara more info then ever the last few days
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1543722226707202069
+- **Time:** 2026-08-30 04:40:59 PM EDT
+- **Reply To Message:** 1543714548727546028
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543722226707202069
+
+> The handoff or?
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543722263151640676
+- **Time:** 2026-08-30 04:41:08 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543722263151640676
+
+> yea
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543756476827574354
+- **Time:** 2026-08-30 06:57:05 PM EDT
+- **Reply To Message:** 1543718234216468591
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543756476827574354
+
+> Been building since yesterday lol frying my brain trying to comprehend all this before i send it to you
+
+**Attachments**
+
+- [Screenshot_20260830_185303_ChatGPT.jpg](https://cdn.discordapp.com/attachments/1537525982213177424/1543756476563202058/Screenshot_20260830_185303_ChatGPT.jpg?ex=6a96af81&is=6a955e01&hm=26fc93a11a420cf6baad4e8e480d594a08315c0033f56a99b87bbcfd44ede9f5&) (181,733 bytes)
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543757628063088821
+- **Time:** 2026-08-30 07:01:40 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543757628063088821
+
+> What is the packet she is building for?
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1543757811371089940
+- **Time:** 2026-08-30 07:02:23 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543757811371089940
+
+> Like is that tailored towards the gm scenario lab or the site overall or something else specific?
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1543760498141560922
+- **Time:** 2026-08-30 07:13:04 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1543760498141560922
+
+> Little bit of everything tbh
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544006800167145523
+- **Time:** 2026-08-31 11:31:47 AM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544006800167145523
+
+**Attachments**
+
+- [Analysis_rebuild.txt](https://cdn.discordapp.com/attachments/1537525982213177424/1544006799990980679/Analysis_rebuild.txt?ex=6a96efe3&is=6a959e63&hm=6022914294a25aad15267f7553b6dd4454cfaff30bdaf26f159bc092e5c9890e&) (25,039 bytes)
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1544013314638745701
+- **Time:** 2026-08-31 11:57:40 AM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544013314638745701
+
+**Attachments**
+
+- [Knoball_League_Onboarding_Packet_DL_2026-08-31.pdf](https://cdn.discordapp.com/attachments/1537525982213177424/1544013313942356098/Knoball_League_Onboarding_Packet_DL_2026-08-31.pdf?ex=6a96f5f4&is=6a95a474&hm=04b830c61cea26648110d1be15cd9a6d8dff5152fdf8875d9acabcca29f4540c&) (82,465 bytes)
+
+**Reactions:** ❤️ x1
+
+---
+
+## JMack115
+
+- **Username:** jmack115
+- **User ID:** 1189395732831142041
+- **Message ID:** 1544013436223234198
+- **Time:** 2026-08-31 11:58:09 AM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544013436223234198
+
+> <@856964222483169311> this is what I got for onboarding <@885947442359582772> will need to confirm
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544086461731831858
+- **Time:** 2026-08-31 04:48:20 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544086461731831858
+
+> <@885947442359582772> Let me show you the functionality and detail ive been working on for your full analysis. I have it really comprehensive and close to having the same repeatable reporting
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544086794902179880
+- **Time:** 2026-08-31 04:49:39 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544086794902179880
+
+> with the detail of plays and evidence behind it and all. i think this is really good imo. just need to verify the data again and again to be sure <@&1537880297738346506> https://drive.google.com/file/d/1ija7uZ9Xjyw-IWwytWmHfUSdMTFc5mKk/view?usp=drive_link
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544086858290696326
+- **Time:** 2026-08-31 04:49:54 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544086858290696326
+
+> i couldnt share it here cause the screen record is too long so i put it in the drive folder.
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544087454330523658
+- **Time:** 2026-08-31 04:52:16 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544087454330523658
+
+> it costs us 10 cents to run. here is the pdf of the analysis.
+
+**Attachments**
+
+- [image.png](https://cdn.discordapp.com/attachments/1537525982213177424/1544087453626015824/image.png?ex=6a973b00&is=6a95e980&hm=cddb83dc0ecda2e207374652bf8a5c027f13da0e927b87350cf386495ee2d7c6&) (115,291 bytes)
+- [analysis-builder-report-4321a795.pdf](https://cdn.discordapp.com/attachments/1537525982213177424/1544087453944774777/analysis-builder-report-4321a795.pdf?ex=6a973b00&is=6a95e980&hm=ad28ffb59033c5371256fbd1336a1d06dea0f72db67cbdad2a3695ede8eeaa63&) (139,214 bytes)
+
+---
+
+## Wafflestacks
+
+- **Username:** wafflestacks_22114876
+- **User ID:** 805485314960261152
+- **Message ID:** 1544093257821323295
+- **Time:** 2026-08-31 05:15:20 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544093257821323295
+
+> Did I see it was 3 passes for verification? So all 3 passes was 10c?
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544093347235237908
+- **Time:** 2026-08-31 05:15:41 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544093347235237908
+
+> nope, 10 cents for the entire process, all 3 passes, the report generation including the output
+
+**Reactions:** 💯 x1
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544093443821666395
+- **Time:** 2026-08-31 05:16:04 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544093443821666395
+
+> essentially 2.5 cents a pass plus the cost of output
+
+---
+
+## Wafflestacks
+
+- **Username:** wafflestacks_22114876
+- **User ID:** 805485314960261152
+- **Message ID:** 1544093457495228456
+- **Time:** 2026-08-31 05:16:08 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544093457495228456
+
+> Also caught my eye - offensive plays analysed 40 v 4 doesn’t seem accurate.
+
+**Attachments**
+
+- [IMG_8673.png](https://cdn.discordapp.com/attachments/1537525982213177424/1544093457230991481/IMG_8673.png?ex=6a974098&is=6a95ef18&hm=0f5bdb837ab19a5c5a33969de88e987e740d046065b646ac3e9847ae38b1d22b&) (491,267 bytes)
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544093707085676554
+- **Time:** 2026-08-31 05:17:07 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544093707085676554
+
+> its not, thats just my restriction on the play calls for the test run. that was an on purpose process to see if i can handle managing which plays the analyzer processes. my goal was to have it process NONE of the cleveland plays but 4 got through. thats just for testing purposes though
+
+---
+
+## Wafflestacks
+
+- **Username:** wafflestacks_22114876
+- **User ID:** 805485314960261152
+- **Message ID:** 1544093812471889960
+- **Time:** 2026-08-31 05:17:32 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544093812471889960
+
+> Ahhhhhhhhhhhhh I gotchu
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544093823226093638
+- **Time:** 2026-08-31 05:17:35 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544093823226093638
+
+> so if anything the fact that the 4 GOT THROUGH is more of an upset for me but thats just technical troubleshooting and me trying to get real control over what we can process for analysis
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544094082916290650
+- **Time:** 2026-08-31 05:18:37 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544094082916290650
+
+> but the evidence tab is something i think you can find real use out of if i can have those plays immediately extractable.
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544094700150063206
+- **Time:** 2026-08-31 05:21:04 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544094700150063206
+
+> but at 10 cents for a full analysis with 3 passes during extraction is a great price point if thats the ceiling. any youtube video wont cost the extraction cost, and any small analysis for leagues like we were floating around would be pennies with far less info needed
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544094790130466816
+- **Time:** 2026-08-31 05:21:25 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544094790130466816
+
+> cheat detector maybe costs 2 cents?
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544096219696070737
+- **Time:** 2026-08-31 05:27:06 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544096219696070737
+
+> i put another 25 on that api key for the site so yall can test it and the beta testers can test it at will and we can report defects and discrepancies in the reporting. im gonna test one of jmacks games with imported madden data tonight to see what kind of results we get from that finally. thatll be a big test
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1544097211254702180
+- **Time:** 2026-08-31 05:31:03 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544097211254702180
+
+> Been buried in catering orders today a lotto catch up on .... currently still processing onboarding from jmack today and your handoffs from yesterday <@&1537880297738346506>
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544098303439011840
+- **Time:** 2026-08-31 05:35:23 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544098303439011840
+
+> <@1535429905150648461> can you detail in great length what the project in the knoball folder on my desktop does and all its features and capabilities?
+
+**Reactions:** 👀 x1
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544098503742062632
+- **Time:** 2026-08-31 05:36:11 PM EDT
+- **Edited:** 2026-08-31 05:39:46 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544098503742062632
+
+> -# 🛠️ 20 tool calls · ⏱️ 261s
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099409267007678
+- **Time:** 2026-08-31 05:39:47 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099409267007678
+
+> I inspected the live `Desktop/knoball` project, its current source, routes, database migrations, tests, architecture docs, native-app handoff, and verified production status. As of August 31, Knoball is not just a film analyzer or league website—it is a full Madden franchise-league operating system.
+> 
+> Important distinction: some features are already verified on the production website, while a substantial set of newer improvements exists locally and has passed tests but has not yet been deployed.
+> 
+> **What Knoball is**
+> 
+> Knoball brings the different parts of running and participating in a Madden league into one connected platform:
+> 
+> - Madden/EA league-data ingestion
+> - Commissioner administration
+> - Team and roster management
+> - GM planning and scenario simulation
+> - Trades and private negotiations
+> - League messaging and community
+> - Film analysis and evidence review
+> - Cheating/dispute investigation
+> - Media editing and production
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099410462376049
+- **Time:** 2026-08-31 05:39:47 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099410462376049
+
+> - Podcasts, news, streams, and broadcasts
+> - Discord commands and league access
+> - Web, Android, and iOS interfaces
+> - Platform support, moderation, telemetry, and auditing
+> 
+> The repository currently contains approximately 4,669 tracked files, 107 website page routes, 367 API handlers, 85 mobile-specific APIs, a separate VPS media worker, 117 database migrations, and thousands of automated tests.
+> 
+> **League creation, discovery, and onboarding**
+> 
+> A commissioner can create a league and establish its identity, membership, settings, Madden connection, and operating rules. Existing players can join through league invitations and onboarding workflows.
+> 
+> The platform includes:
+> 
+> - League creation and joining
+> - Public/private League Finder
+> - Join-request review
+> - Member and team assignment
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099412333035552
+- **Time:** 2026-08-31 05:39:47 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099412333035552
+
+> - League logo, icon, and banner management
+> - Uploading onboarding material and league information
+> - Commissioner-controlled settings
+> - Roles, permissions, and approvals
+> - League-specific Discord configuration
+> - League export capabilities
+> - Multiple-league membership with active-league switching
+> 
+> A major design rule is that every screen and operation must resolve the authenticated user’s actual league membership and capabilities. A league ID in a URL does not grant access.
+> 
+> **EA/Madden data integration**
+> 
+> Knoball works with AIRBUD, a separate service that manages the actual connection to EA/Madden. AIRBUD sends normalized datasets into Knoball, while Knoball displays connection state, initiates permitted synchronization operations, and records sync history.
+> 
+> It supports data such as:
+> 
+> - Teams and franchises
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099414359023618
+- **Time:** 2026-08-31 05:39:48 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099414359023618
+
+> - Players and rosters
+> - Schedules and game results
+> - Statistics
+> - Transactions
+> - Salary-cap and contract information
+> - League seasons and other imported league records
+> 
+> The audited production league showed an active EA connection, daily automatic syncing, and 4,648 records imported.
+> 
+> The platform tracks:
+> 
+> - Connected/disconnected status
+> - Automatic-sync configuration
+> - Last successful sync
+> - Current or historical failures
+> - Record counts
+> - Error classification and retryability
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099416384872529
+- **Time:** 2026-08-31 05:39:48 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099416384872529
+
+> - Safe error messages
+> - Correlation IDs for troubleshooting
+> - Sync freshness and history
+> 
+> Raw Madden money values are normalized at ingestion. This matters because Madden can expose signed values in a format that otherwise appears as enormous multi-billion-dollar numbers. That correction is already deployed on the Teams surface.
+> 
+> **Core league workspace**
+> 
+> Each league has a central workspace with:
+> 
+> - League overview
+> - Teams and team detail
+> - Players and player profiles
+> - Rosters
+> - Games and game detail
+> - Game Day
+> - Schedules and results
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099418066649204
+- **Time:** 2026-08-31 05:39:49 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099418066649204
+
+> - League statistics
+> - Transactions
+> - Draft information
+> - Trade block
+> - Trade calculator
+> - Awards and historical records
+> - League news
+> - League Pulse
+> - Channels and discussions
+> - Member directory
+> 
+> Large data screens can support features such as configurable columns, compact mode, filtering, pagination, and CSV export. Teams already has the newer shared data-browser controls in production, and adoption is continuing across other screens.
+> 
+> Knoball is designed to display missing data honestly. If a roster has not been imported, it should say the information is unavailable rather than confidently displaying a fictional `0/53`.
+> 
+> **GM’s Desk**
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099419983446066
+- **Time:** 2026-08-31 05:39:49 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099419983446066
+
+> GM’s Desk is the operating and planning center for someone managing a franchise.
+> 
+> It combines the current imported franchise state with planning tools for:
+> 
+> - Roster evaluation
+> - Salary-cap review
+> - Contract review
+> - Depth-chart management
+> - Free-agent evaluation
+> - Team needs and strengths
+> - Position-group analysis
+> - League-stat comparisons
+> - Team briefings
+> - Improvement opportunities
+> - Scenario planning
+> - Transaction drafting
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099439411601512
+- **Time:** 2026-08-31 05:39:54 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099439411601512
+
+> The “Live Workspace” represents the GM’s active working plan. A GM can create scenarios representing possible futures—for example, releasing a player, pursuing a free agent, changing a depth chart, or building around a position group.
+> 
+> The Scenario Lab supports:
+> 
+> - Objectives
+> - Assumptions and constraints
+> - Proposed actions
+> - Lineup/depth changes
+> - Rule sets
+> - League rewards
+> - Discussion
+> - Plan status
+> - Snapshots
+> - Save-as/copy workflows
+> - Comparison with the current franchise state
+> - Reconciliation after Madden data changes
+> - “Improve Team” recommendations
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099441928052917
+- **Time:** 2026-08-31 05:39:54 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099441928052917
+
+> A crucial boundary is that these are planning actions. Knoball does not silently execute roster transactions inside Madden.
+> 
+> Scenario sharing is available through controlled tokenized links. Deep Scenario Lab editing remains intentionally web-only; the native app handles the practical GM views and scenario list/create functions.
+> 
+> **Negotiator’s Table**
+> 
+> The Negotiator’s Table is a structured trade-negotiation workspace, not merely a chatroom.
+> 
+> It includes:
+> 
+> - Negotiation lobby
+> - Private negotiation rooms
+> - Participant seats
+> - Player and asset selection
+> - Structured offers
+> - Offer versions and history
+> - Responses and counteroffers
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099444285243402
+- **Time:** 2026-08-31 05:39:55 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099444285243402
+
+> - Room chat
+> - Presence and activity
+> - Next-actor/state tracking
+> - Per-user archiving
+> - Optional LiveKit voice communication
+> - Links back to GM and franchise context
+> 
+> The intent is to preserve exactly what was offered, which version is current, who must respond next, and how the negotiation evolved. Archiving a room can be specific to one user without rewriting the shared negotiation history for everybody.
+> 
+> **Analysis Builder and Full Analysis**
+> 
+> This is the advanced film-analysis system shown in the recent demonstration.
+> 
+> A user can submit supported video or link sources, select an analysis mode, and queue the work. Long-running analysis is performed by a separate worker so a website request does not need to remain open while the game is processed.
+> 
+> The Full Analysis pipeline can perform:
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099446076342323
+- **Time:** 2026-08-31 05:39:55 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099446076342323
+
+> - Structured play extraction
+> - Multiple extraction/verification passes
+> - Play ledger creation
+> - Game-flow analysis
+> - Offensive analysis
+> - Defensive analysis
+> - Situational analysis
+> - Player analysis
+> - Coaching observations
+> - Evidence-linked findings
+> - Charts and source-data tables
+> - Searchable/filterable reports
+> - Printable narrative
+> - PDF generation
+> - Video-linked evidence seeking
+> - Play correction and report regeneration
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099447859060786
+- **Time:** 2026-08-31 05:39:56 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099447859060786
+
+> The report architecture contains sections for:
+> 
+> - Overview
+> - Game Flow
+> - Offense
+> - Defense
+> - Situational performance
+> - Players
+> - Coaching
+> - Evidence
+> - Methodology
+> 
+> Claims can identify whether they are observations, inferences, or recommendations. They can include confidence, sample strength, cited play numbers, referenced facts/metrics, and rejection reasons.
+> 
+> The system deliberately separates:
+> 
+> - Facts observed in the film
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099449826189415
+- **Time:** 2026-08-31 05:39:56 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099449826189415
+
+> - Facts supplied by a user
+> - Facts imported from official league data
+> - Deterministic calculations
+> - Model interpretations
+> - Human corrections
+> - Final presentation
+> 
+> If user-supplied information conflicts with imported information, Knoball records the conflict rather than quietly choosing whichever version is convenient.
+> 
+> Every AI stage uses a defined schema. The model cannot simply invent its own response format. Outputs are validated again after generation.
+> 
+> For a report to earn `completed_verified`, all required extraction, reviewability, audit, citation, numeric-grounding, conflict, and post-flight checks must pass. Otherwise, it becomes `completed_with_limits`. A completed job does not automatically mean a verified report.
+> 
+> Reports preserve governance information including:
+> 
+> - Model and prompt versions
+> - Schema versions
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099453554917447
+- **Time:** 2026-08-31 05:39:57 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099453554917447
+
+> - Generation settings
+> - Input/output hashes
+> - Source and video lineage
+> - Stage latency
+> - Usage where available
+> - Evidence citations
+> - Context conflicts
+> - Gate results
+> - Safe failure information
+> 
+> When a reviewer corrects a play, Knoball preserves the original and creates an immutable revision. Dependent reports become stale and their claims are downgraded until regeneration. It does not automatically spend more model quota after every edit.
+> 
+> The new structured Full Analysis implementation exists locally and has passed its current evaluation gates. Database migration 117 is deployed, but the newest application/UI implementation has not yet been promoted to production. The older production reports are conservatively labeled `completed_with_limits`; Knoball does not retroactively pretend they passed a verification process that did not yet exist.
+> 
+> Also, the current evaluation corpus proves that bad reports are blocked—for example, reports with score contradictions, nonexistent citations, unknown identities, schema violations, or unsupported exact numbers. It is not yet enough evidence to advertise a statistically measured accuracy percentage.
+> 
+> **Evidence, referee, cheat detection, and disputes**
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099472064123021
+- **Time:** 2026-08-31 05:40:02 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099472064123021
+
+> Knoball includes several connected review surfaces:
+> 
+> - Knoball Referee
+> - AI game-film review
+> - Fair Play and Dispute Review
+> - Evidence packages
+> - Job evidence pages
+> - Human review pages
+> - League cheat detector
+> - Commissioner decision records
+> 
+> Machine analysis can flag:
+> 
+> - Plays of concern
+> - Behavioral patterns
+> - Potential rule issues
+> - Relevant timestamps
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099473234464811
+- **Time:** 2026-08-31 05:40:02 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099473234464811
+
+> - Evidence requiring review
+> 
+> However, it cannot automatically impose a penalty or declare someone guilty. Evidence, machine findings, reviewer conclusions, and commissioner decisions are maintained as separate records. Final disciplinary authority stays with an authorized human commissioner.
+> 
+> Integrity or processing failures must remain visible. The system is designed to fail closed instead of disguising incomplete evidence as certainty.
+> 
+> **Content Console**
+> 
+> The Content Console is a web-based media-production workflow with:
+> 
+> - Direct media upload
+> - Clip selection and cutting
+> - Scene detection
+> - External audio tracks
+> - Captions
+> - Visual elements
+> - Compression options
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099475465961514
+- **Time:** 2026-08-31 05:40:02 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099475465961514
+
+> - Experience-level guidance
+> - Lossless edit-command history
+> - Render queue
+> - Durable project/job status
+> - Final artifact storage
+> 
+> Rendering runs on the separate VPS media worker using FFmpeg rather than trying to process large videos inside the Hostinger web process.
+> 
+> The source implementation exists, but a fresh end-to-end production render still needs to be formally verified through the worker logs, resulting artifact, and browser playback before calling the entire pipeline production-proven.
+> 
+> **News, podcasts, streams, and community**
+> 
+> Knoball also includes league media and engagement systems:
+> 
+> - KSN News and article administration
+> - League-specific news
+> - Weekly recaps
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099477973901332
+- **Time:** 2026-08-31 05:40:03 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099477973901332
+
+> - League podcast studio
+> - Podcast scripts and rundown
+> - Voice preferences
+> - Generated audio
+> - Episode player and transcript
+> - Shared podcast links
+> - Distribution metadata
+> - Streams & Tape
+> - YouTube/Twitch channel support
+> - League discussions and channels
+> - Friends, members, and direct messages
+> - Game Day and League Pulse
+> - Streak and engagement features
+> 
+> The podcast system distinguishes browser speech fallback from persistently generated audio.
+> 
+> Streams & Tape can store and check configured YouTube/Twitch channels. One known production weakness is that configured channels may currently be presented as “live” without sufficiently fresh provider confirmation. The intended model distinguishes configured, checking, live, offline, unavailable, and invalid states.
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099479869722655
+- **Time:** 2026-08-31 05:40:03 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099479869722655
+
+> KSN News is production-accessible, but there is a known league-context defect that can show content from a configured test league instead of the active league. That is on the current correction backlog.
+> 
+> **Discord integration**
+> 
+> Knoball uses signed Discord HTTP interactions rather than maintaining a conventional always-connected Gateway bot in this repository.
+> 
+> The source defines 18 top-level commands:
+> 
+> - `/standings`
+> - `/schedule`
+> - `/scores`
+> - `/boxscore`
+> - `/league`
+> - `/team`
+> - `/player`
+> - `/stats`
+> - `/market`
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099481593716849
+- **Time:** 2026-08-31 05:40:04 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099481593716849
+
+> - `/me`
+> - `/newweek`
+> - `/join`
+> - `/setupteams`
+> - `/news`
+> - `/inbox`
+> - `/trophies`
+> - `/link`
+> - `/help`
+> 
+> Commands resolve the league from the verified Discord server mapping. Private/user-specific commands also require a linked Knoball identity. Sensitive responses can be ephemeral.
+> 
+> Pick’em, Power Rankings, and Rivalry have been retired. Some retirement responses remain until Discord’s globally registered commands are updated externally.
+> 
+> **Accounts, messaging, help, and moderation**
+> 
+> The platform includes:
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099483753652278
+- **Time:** 2026-08-31 05:40:04 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099483753652278
+
+> - Email/password accounts
+> - Google authentication
+> - Linked Discord and Twitch accounts
+> - Password recovery
+> - Age verification
+> - Profile and preferences
+> - Time-zone selection
+> - Direct messages
+> - User blocking
+> - User and message reporting
+> - Support ticket creation
+> - Ticket attachments and conversations
+> - Platform-admin support queue
+> - Account deletion
+> - Privacy and terms pages
+> - Notification preferences
+> - Action Center
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099502732877865
+- **Time:** 2026-08-31 05:40:09 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099502732877865
+
+> The Action Center already has:
+> 
+> - Needs Attention
+> - Activity
+> - Resolved
+> - Filters
+> - Deduplication
+> - Automatic resolution lifecycle
+> 
+> Support tickets remain canonical in the database even if an email notification fails.
+> 
+> **Commissioner operations**
+> 
+> The commissioner workspace provides control over:
+> 
+> - League overview
+> - Members
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099506327396392
+- **Time:** 2026-08-31 05:40:10 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099506327396392
+
+> - Join requests
+> - Team assignments
+> - Seasons and history
+> - Madden/EA integration
+> - Madden sync operations
+> - Discord setup and routing
+> - Roles and permissions
+> - Approvals
+> - Evidence review
+> - League settings
+> - GM immersion controls
+> - Cheat-detector requests
+> - Outbound webhooks where supported
+> 
+> The platform distinguishes commissioners from platform administrators. A commissioner’s authority applies to the league; it does not automatically grant access to platform-wide users, audit records, or telemetry.
+> 
+> **Platform administration**
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099508688781413
+- **Time:** 2026-08-31 05:40:10 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099508688781413
+
+> The platform-admin interface is separated into workspaces for:
+> 
+> - Overview
+> - Support
+> - Telemetry
+> - Users
+> - Leagues
+> - Access
+> - Audit
+> 
+> It provides operational oversight without treating ordinary commissioner permissions as platform-administrator access. Personally identifying information and provider errors are expected to be minimized and protected in screens, logs, exports, and documentation.
+> 
+> **Native Android and iOS application**
+> 
+> Knoball has a separate Capacitor/Vite/React native client. This is not the website loaded inside an app-shell webview. It bundles its own interface and calls 85 versioned mobile API endpoints.
+> 
+> Implemented native areas include:
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099510450397245
+- **Time:** 2026-08-31 05:40:11 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099510450397245
+
+> - Sign-in, signup, recovery, and logout
+> - Google, Discord, and Apple sign-in bridges when configured
+> - Secure Keychain/Keystore session storage
+> - Offline/network states
+> - Profile and preferences
+> - League switching
+> - League home, teams, rosters, and players
+> - League Finder
+> - Members and community
+> - Messages and conversation threads
+> - Discord server directory
+> - Game Day, League Pulse, streaks, and recaps
+> - GM home, needs, strengths, cap, contracts, depth chart, and free agents
+> - Scenario list and creation
+> - Full Negotiator’s Table experience
+> - Commissioner workflows
+> - Madden integration controls
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099511767408746
+- **Time:** 2026-08-31 05:40:11 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099511767408746
+
+> - Analysis Builder submission, jobs, reports, sharing, text, and PDF
+> - Durable video submission
+> - Support tickets
+> - Blocking/reporting/moderation
+> - Push notifications
+> - Deep links
+> - Native share, files, haptics, and keyboard handling
+> - Android and iOS home widgets
+> - Optional LiveKit voice
+> 
+> Android source is version 1.2.0/versionCode 3, and a prior signed AAB exists. The latest local source still needs a fresh signed build and device QA before store rollout.
+> 
+> The iOS project, WidgetKit extension, entitlements, and privacy manifests exist, but Windows cannot perform the final Mac/Xcode build, signing, device, APNs, archive, or TestFlight verification.
+> 
+> Content Console, deep Scenario Lab editing, and the complete League Builder/settings studio are intentionally web-only.
+> 
+> **Technical architecture**
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099514502217858
+- **Time:** 2026-08-31 05:40:12 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099514502217858
+
+> The major runtime pieces are:
+> 
+> - Next.js 16.3 web application and APIs
+> - React 19 and TypeScript
+> - Tailwind CSS
+> - Better Auth
+> - MySQL with Drizzle ORM
+> - S3-compatible object storage
+> - Gemini AI
+> - FFmpeg
+> - AIRBUD integration
+> - Discord signed interactions
+> - SMTP email
+> - YouTube and Twitch checks
+> - APNs and FCM push
+> - LiveKit voice
+> - Separate VPS media worker
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099518885269707
+- **Time:** 2026-08-31 05:40:13 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099518885269707
+
+> - Capacitor Android/iOS client
+> 
+> Large media uploads go directly to private object storage through short-lived, tightly scoped upload URLs. MySQL stores metadata, lineage, lifecycle, findings, and decisions—not giant video blobs.
+> 
+> The worker atomically claims queued analysis or rendering jobs, which prevents two workers from processing the same job concurrently.
+> 
+> **Security and governance**
+> 
+> Knoball’s safety model includes:
+> 
+> - Server-side authentication and capability checks
+> - Cross-league access isolation
+> - Distinct commissioner/platform-admin boundaries
+> - Signed Discord request validation
+> - Generated object-storage keys
+> - File type, size, purpose, owner, and expiry validation
+> - Private media with temporary authorized access
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099521317969994
+- **Time:** 2026-08-31 05:40:13 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099521317969994
+
+> - Redacted external-provider errors
+> - Stable user-safe error codes
+> - Idempotent state transitions
+> - Audit records
+> - Revocable/expiring sharing boundaries where promised
+> - No client-side role or league ID treated as authority
+> - No AI-generated finding silently converted into discipline
+> - Secrets excluded from Git, client builds, PDFs, and deployment archives
+> 
+> **Current quality state**
+> 
+> As of the latest documented verification:
+> 
+> - TypeScript checks passed
+> - Strict unused-code checks passed
+> - Lint passed with zero errors and warnings
+> - 1,541 web/service-backed tests passed
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099523662581781
+- **Time:** 2026-08-31 05:40:14 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099523662581781
+
+> - Analysis Builder evaluation gates passed
+> - Production web build passed
+> - 96 native tests passed
+> - Native typecheck and lint passed
+> - Native Vite build passed
+> - 15 Windows-safe iOS project checks passed
+> - Authenticated production surfaces were crawled and reviewed
+> 
+> **Current limitations and remaining work**
+> 
+> The largest issues are not missing foundational features. They are cohesion, trust presentation, navigation, and release discipline:
+> 
+> - New Full Analysis UI/source must still be deployed and production-verified.
+> - Dashboard EA status can contradict the commissioner integration screen.
+> - KSN News can use the wrong active league.
+> - Money formatting differs between Teams and GM’s Desk.
+> - New GM scenarios default to “Untitled Scenario.”
+
+---
+
+## SARA-MAIN
+
+- **Username:** SARA-MAIN
+- **User ID:** 1535429905150648461
+- **Message ID:** 1544099541643432058
+- **Time:** 2026-08-31 05:40:18 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099541643432058
+
+> - Dashboard alerts and Action Center need one unified lifecycle.
+> - Messages displays an unnecessary ChatDock launcher.
+> - Streams & Tape needs honest live/offline/provider freshness.
+> - Navigation is still a long feature catalog rather than a task-oriented workspace.
+> - Content Console needs a fresh proven production render.
+> - Android needs a new signed current-source build and device QA.
+> - iOS still needs full Mac/Xcode/TestFlight verification.
+> - The Analysis Builder needs a much larger human-labeled game corpus before making measured accuracy claims.
+> 
+> In short: Knoball is attempting to become the complete operating layer between Madden data, commissioners, franchise GMs, league members, media creators, Discord, and governed AI analysis. The underlying breadth is already substantial and operational. The current phase is less about inventing more disconnected tools and more about making all of these existing capabilities feel like one coherent, trustworthy product.
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544099631657394176
+- **Time:** 2026-08-31 05:40:40 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099631657394176
+
+> this is how youll get your snapshots and updates moving forward johnny. save your codex usage for querying my computer, specifically the knoball folder on my desktop any time you like and ask any questions you may have. you no longer have to wait on me for your updates. <@885947442359582772>
+
+**Reactions:** 💯 x1
+
+---
+
+## mikesssss
+
+- **Username:** mikesssss4990
+- **User ID:** 856964222483169311
+- **Message ID:** 1544099731687481484
+- **Time:** 2026-08-31 05:41:04 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544099731687481484
+
+> connected straight to the source code at all times.
+
+---
+
+## johnny1895631
+
+- **Username:** johnny1895631
+- **User ID:** 885947442359582772
+- **Message ID:** 1544100091005239489
+- **Time:** 2026-08-31 05:42:29 PM EDT
+- **Discord Link:** https://discord.com/channels/1530755751318917224/1537525982213177424/1544100091005239489
+
+> Great idea
+
+---
+
+
