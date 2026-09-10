@@ -1,0 +1,78 @@
+{
+  "archive_id": "2026-09-10_14-21-17_UTC_f4316678",
+  "sha256": "f4316678de80cf32fd514c5a4019abc52d945ddf369cdc48dd2d8831f0d869fa",
+  "zip_name": "1530755751318917224_channel_20260910T142116Z.zip",
+  "zip_bytes": 16564,
+  "archive_version": "2.1",
+  "generated_at": "2026-09-10T14:21:17.029450+00:00",
+  "guild": {
+    "id": 1530755751318917224,
+    "name": "KNOBALL PILOT",
+    "owner_id": 856964222483169311
+  },
+  "requested_by": {
+    "id": 1539122059886465115,
+    "name": "Knoball Archive",
+    "display_name": "Knoball Archive"
+  },
+  "scope": "channel",
+  "filters": {
+    "after": null,
+    "before": null,
+    "author_id": null,
+    "role_id": null,
+    "contains": null,
+    "regex": null,
+    "pins_only": false,
+    "include_bots": true,
+    "has_attachments": null,
+    "include_user_ids": [],
+    "exclude_user_ids": [],
+    "include_channel_ids": [],
+    "exclude_channel_ids": []
+  },
+  "options": {
+    "max_messages": 25,
+    "download_attachments": false,
+    "include_archived_threads": true,
+    "include_active_threads": true,
+    "formats": [
+      "html",
+      "txt",
+      "json",
+      "jsonl",
+      "csv"
+    ],
+    "incremental": false,
+    "update_checkpoint": true,
+    "dry_run": false,
+    "split_for_discord": true,
+    "generate_integrity_manifest": true,
+    "include_captured": true
+  },
+  "stats": {
+    "scanned": 25,
+    "matched": 25,
+    "skipped_permissions": 0,
+    "channels_seen": 1,
+    "channels_exported": 1,
+    "attachments_seen": 0,
+    "attachments_downloaded": 0,
+    "attachments_failed": 0
+  },
+  "captured": {
+    "deleted": 0,
+    "edits": 0
+  },
+  "targets": [
+    {
+      "id": 1533837580041191465,
+      "name": "test",
+      "type": "text",
+      "parent_id": null,
+      "matched_messages": 25
+    }
+  ],
+  "first_message_at": "2026-08-03T14:03:13.996000+00:00",
+  "last_message_at": "2026-08-03T14:24:23.046000+00:00"
+}
