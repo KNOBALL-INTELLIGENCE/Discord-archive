@@ -1,0 +1,16 @@
+[
+  {
+    "archive_id": "2026-09-10_14-13-27_UTC_8df8b87d",
+    "captured_at": "2026-09-10T14:13:27.990228+00:00",
+    "guild_id": 1530755751318917224,
+    "guild_name": "KNOBALL PILOT",
+    "scope": "channel",
+    "messages": 49,
+    "zip_name": "2026-09-10_14-13-27_UTC_8df8b87d.zip",
+    "zip_bytes": 37105,
+    "sha256": "8df8b87de5338e8bd4effed314999e9a65576eecbd101ff37ab993c640629133",
+    "mode": "commit",
+    "requested_by": 1539122059886465115,
+    "location": "discord-archives/2026/09/10/2026-09-10_14-13-27_UTC_8df8b87d/2026-09-10_14-13-27_UTC_8df8b87d.zip"
+  }
+]
